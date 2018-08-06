@@ -1,0 +1,8 @@
+.idea
+.gradle
+*.iml
+out
+gen
+/**/build
+/**/classes
+/**/logs
